@@ -1,0 +1,21 @@
+1.Draft a well-formed problem statement.
+		>> Predict restaurant closings based on number of violations/contextual violation data.
+
+2.Include the following elements:
+	- Hypothesis/assumptions
+		>> Restaurants with more violations are likely to go out of business. 
+	- Goals and success metrics
+		>> Determine number of violations per restaurant
+		>> Determine number of violations per restaurant that have closed down in the past
+		>> Explore if there is a correlation between number of violations and going out of business
+
+3.Explore if there are any other factors that lead can help to predict a restaurant going out of business
+	- Risks or limitations
+		>> Quantifying number of violations
+		>> Using text data to determine trends in contextual reasoning behind violation and a business closing down
+
+
+4.Identify at least one relevant internal dataset and confirm that you have (or can get) the right access permissions.
+		>> https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5
+
+
